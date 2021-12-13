@@ -36,8 +36,7 @@
  
 <a href="https://github.com/cyber-ula">
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-ula&layout=compact&theme=react" alt="Top languages" />
-</a>
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br />
 
 
 <h3>Where To Find Me:</h3>
