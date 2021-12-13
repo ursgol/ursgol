@@ -1,5 +1,5 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">,</h2>
-<h3>I'm Tech Blogger with Bachelor of Science in Mathematics, currently looking for a job or an internship.</h3>
+<h3>I'm Tech Blogger with Bachelor of Science in Mathematics, currently looking for a first programming job or an internship.</h3>
 
 
 
