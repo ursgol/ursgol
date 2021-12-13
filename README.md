@@ -26,7 +26,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-E79A00?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a>
 </p>
 
-
+<!--
 </br>
 <a href="https://github.com/cyber-ula">
   <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=cyber-ula&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="cyber-ula's GitHub stats" />
@@ -35,7 +35,7 @@
 <a href="https://github.com/cyber-ula">
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-ula&layout=compact&theme=react" alt="Top languages" />
 </br>
-
+-->
 <h3>Where To Find Me:</h3>
 <p>
 <p><a href="https://github.com/cyber-ula" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/cyber_ula" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
