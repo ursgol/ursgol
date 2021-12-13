@@ -20,10 +20,25 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> 
+ </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-E79A00?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a>
 </p>
+
+<br/>
+<br/>
+<br/>
+
+<a href="https://github.com/cyber-ula">
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=cyber-ula&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="cyber-ula's GitHub stats" />
+</a>
+ 
+<a href="https://github.com/cyber-ula">
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-ula&layout=compact&theme=react" alt="Top languages" />
+</a>
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
 
 <h3>Where To Find Me:</h3>
 <p>
