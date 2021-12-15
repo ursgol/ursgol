@@ -8,6 +8,8 @@
 - 📫 How to reach me: **contact@cyberula.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-ulap&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-ula" /> </p>
+<p align="left"><img src="https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh" alt="date"/></p>
+
 <h3 align="left">Languages & Tools:</h3>
 
 <p align="left">
@@ -45,6 +47,8 @@
 <p>
 <p><a href="https://github.com/cyber-ula" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/cyber_ula" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
+<p align="left"><img src="https://badgen.net/twitter/follow/cyber_ula" alt="twitter"/></p>
+
 
 <h3>My Projects:</h3>
 <p>
