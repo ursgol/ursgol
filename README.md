@@ -44,9 +44,9 @@
 </br>
 -->
 <h3>Where To Find Me:</h3>
-<p>
-<p><a href="https://github.com/cyber-ula" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/cyber_ula" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-</p>
+<!-- <p>
+<p><a href="https://github.com/cyber-ula" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>--> <a href="https://twitter.com/cyber_ula" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+</p> 
 <p align="left"><img src="https://badgen.net/twitter/follow/cyber_ula" alt="twitter"/></p>
 
 
