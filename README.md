@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-ulap&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-ula" /> </p>
 <p align="left"><img src="https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh" alt="date"/></p>
 
-<h3 align="left">Languages & Tools:</h3>
+<h3 align="left">Technologies:</h3>
 
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" /> </a> 
