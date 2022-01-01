@@ -1,10 +1,9 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">,</h2>
-<h3>I'm Tech Blogger with Bachelor of Science in Mathematics, currently looking for a first programming job or an internship.</h3>
+<h3>I'm Tech Blogger with Bachelor of Science in Mathematics, currently learning more about full-stack developement/h3>
 
 
 
-- 🔭 I’m currently working on my blog: [cyberula.com](https://cyberula.com)
-- 🌱 I’m currently learning more about full-stack development.
+- 🔭 I’m working on my blog: [cyberula.com](https://cyberula.com)
 - 📫 How to reach me: **contact@cyberula.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-ulap&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-ula" /> </p>
