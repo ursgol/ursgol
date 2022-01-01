@@ -1,8 +1,8 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">,</h2>
-<h3>I'm Tech Blogger with Bachelor of Science in Mathematics, currently learning more about full-stack developement</h3>
+<h4>I'm ✨Tech Blogger with Bachelor of Science in ✨Mathematics, currently working on my personal projects, mostly in ✨Python and ✨JS.</h4>
 
 
-
+- 🌱 I’m currently learning Python, JS, Data Structures & Algorithms, Networking, API and much more...
 - 🔭 I’m working on my blog: [cyberula.com](https://cyberula.com)
 - 📫 How to reach me: **contact@cyberula.com**
 
