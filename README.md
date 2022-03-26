@@ -2,7 +2,7 @@
 <h4>I'm ✨Tech Blogger with Bachelor of Science in ✨Mathematics, currently working on my personal projects, mostly in ✨Python and ✨JS.</h4>
 
 
-- 🌱 I’m currently learning Python, JS, Data Structures & Algorithms, Networking, API and much more...
+- 🌱 I’m currently learning Python, JS and much more...
 - 🔭 I’m working on my blog: [cyberula.com](https://cyberula.com)
 - 📫 How to reach me: **contact@cyberula.com**
 
