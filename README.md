@@ -43,17 +43,6 @@
 </p> 
 <p align="left"><img src="https://badgen.net/twitter/follow/cyber_ula" alt="twitter"/></p>
 
-## 👇 My Github Stats
-
-![cyberula's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyber-ula&show_icons=true&theme=radical&border_radius=2)
-
-<br  />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-ula&" alt="cyber-ula" /></p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-ula&layout=compact)](https://github.com/dunyanong/github-readme-stats)
-
 
 <h3>My Projects:</h3>
 <p>
