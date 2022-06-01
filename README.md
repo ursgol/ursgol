@@ -1,4 +1,4 @@
-<h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">,</h2>
+<h2>Hey there,</h2>
 <h4>I'm ✨Tech Blogger with Bachelor of Science in ✨Mathematics, currently working on my personal projects, mostly in ✨Python and ✨JS.</h4>
 
 
