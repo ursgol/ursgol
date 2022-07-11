@@ -1,5 +1,5 @@
 <h2>Hey there,</h2>
-<h4>I'm ✨Tech Blogger with Bachelor of Science in ✨Mathematics, currently working on my personal projects, mostly in ✨Python and ✨JS.</h4>
+<h4>Junior Software Developer and Tech Blogger with Bachelor Science of Mathematics striving to make the world a more unified and connected place. </h4>
 
 
 - 🌱 I’m currently learning Python, JS and much more...
