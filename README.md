@@ -1,5 +1,5 @@
 <h2>Hey there,</h2>
-<h4>I am a Junior Software Developer✨ and Tech Blogger with Bachelor Science of Mathematics✨ striving to make the world a more unified and connected place. </h4>
+<h4>I am a  Aspiring Software Developer✨ and Tech Blogger with Bachelor Science of Mathematics✨ striving to make the world a more unified and connected place. </h4>
 
 
 - 🌱 I’m currently learning Python, JS and much more...
