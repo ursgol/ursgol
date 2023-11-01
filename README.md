@@ -2,7 +2,7 @@
 <h4>I am a  Aspiring Software Developer✨ and Tech Blogger with Bachelor Science of Mathematics✨ striving to make the world a more unified and connected place. </h4>
 
 
-- 🌱 I’m currently learning Python, JS and much more...
+- 🌱 I’m currently learning C#, TS and much more...
 - 🔭 I’m working on my blog: [cyberula.com](https://cyberula.com)
 - 📫 How to reach me: **contact@cyberula.com**
 
