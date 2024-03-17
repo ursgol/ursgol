@@ -3,7 +3,6 @@
 
 
 - 🌱 I’m currently learning C#, TS and much more...
-- 🔭 I’m working on my blog: [cyberula.com](https://cyberula.com)
 - 📫 How to reach me: **contact@cyberula.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-ulap&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-ula" /> </p>
