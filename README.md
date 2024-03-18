@@ -1,5 +1,5 @@
 <h2>Hey there,</h2>
-<h4> Automation & Manual Tester✨Tech Blogger with Bachelor Science of Mathematics✨ striving to make the world a more unified and connected place. </h4>
+<h4> Aspiring Software Developer✨, Tech Blogger with Bachelor Science of Mathematics✨ striving to make the world a more unified and connected place who loves to build web applications. </h4>
 
 
 - 🌱 I’m currently learning C#, TS and much more...
