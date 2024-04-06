@@ -2,7 +2,7 @@
 <h4> Aspiring Software Developer✨, Tech Blogger with Bachelor Science of Mathematics✨ striving to make the world a more unified and connected place who loves to build web applications. </h4>
 
 
-- 🌱 I’m currently learning C#, JS and much more...
+- 🌱 I’m currently learning JS :)
 
 <h3 align="left">Technologies:</h3>
 
