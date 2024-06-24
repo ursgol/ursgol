@@ -2,7 +2,7 @@
 <h4> Aspiring Software Developer✨ with Bachelor Science of Mathematics✨ striving to make the world a more unified and connected place who loves to build amazing websites and web applications. </h4>
 
 
-- 🌱 I’m currently learning React :)
+- 🌱 I’m currently building projects :)
 
 <h3 align="left">Technologies:</h3>
 
