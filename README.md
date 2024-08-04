@@ -1,5 +1,5 @@
 <h2>Hey there,</h2>
-<h4> Aspiring Software Developer✨ with Bachelor Science of Mathematics✨ striving to make the world a more unified and connected place who loves to build amazing websites and web applications. </h4>
+<h4> I am Urszula✨ with a Bachelor of Science in Mathematics✨ striving to make the world a more unified and connected place who loves building, testing and caring about security in amazing websites and web applications. </h4>
 
 
 - 🌱 I’m currently building projects :)
